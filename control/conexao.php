@@ -12,16 +12,16 @@
 
         try {
 
-            $server = "localhost";
-            $username = "root";
-            $password = "";
-            $db = "sim";
-    /*        
+            // $server = "localhost";
+            // $username = "root";
+            // $password = "";
+            // $db = "sim";
+            
               $server ="dbmy0026.whservidor.com";
               $username="geracaopar1";
               $password="homega36@";
               $db="geracaopar1";
-    */         
+             
 
             $this->server = $server;
             $this->username = $username;
