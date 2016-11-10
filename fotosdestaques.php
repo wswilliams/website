@@ -124,11 +124,11 @@
                      $countitem++;  
                    //  echo "<script>alert('$caminho_item_completo');</script>";
                    }
-                  
+                  closedir($dir_item);
          $count++;
                }
             }
-            closedir($dir_item);
+            
             closedir($dir);
             
             

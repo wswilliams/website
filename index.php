@@ -252,21 +252,8 @@
 					<h2>LOCALIZAÇÃO NO MAPA</h2><hr>
 				</div>
 				<div class="box-item" >
-					<div class='embed-container maps'>
-						<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-						<div style='overflow:hidden;height:400px;width:100%;'>
-						<div id='gmap_canvas' style='height:400px;width:100%;'></div>
-						<div><small><a href="http://embedgooglemaps.com">embed google map</a></small></div>
-						<div><small><a href="https://www.noleggioauto.zone/">prezzi migliori</a></small></div>
-						<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
-						<script type='text/javascript'>function init_map()
-						{var myOptions = {zoom:19,center:new google.maps.LatLng(-3.0396909,-59.94813099999999),mapTypeId: google.maps.MapTypeId.ROADMAP};
-						map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-						marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-3.0396909,-59.94813099999999)});
-						infowindow = new google.maps.InfoWindow({content:'<strong>Igreja Evangélica Pentecostal Gerações para cristo</strong><br>R. 29, 158 - Cidade Nova, Manaus - AM, 69099-120<br>'});
-						google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});
-						infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
-						</script>
+					<div class='embed-container maps' id="mapa" style="width: 100%; height: 400px">
+						<script src="https://maps.googleapis.com/maps/api/js?v=AIzaSyBaBwpxbb0-N67-2OCfmQaF_WU1s1ImJzQ&sensor=false"></script>
 					</div>
 					<div class="container">
 						<div class="row">
@@ -358,6 +345,7 @@
 	<script src="js/cbpAnimatedHeader.js"></script>
 	<script src="js/sendmensagem.js"></script>
 	<script src="js/glisse.js"></script>
+	<script src="js/mapa.js"></script>
         <script>
             $(function () {
                 
