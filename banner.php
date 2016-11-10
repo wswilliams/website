@@ -13,27 +13,27 @@
 						<img src="images/banner/3.jpg" alt="First slide">
 						<!-- Static Header -->
 						<div class="header-text hidden-xs">
-							<div class="col-md-12 text-center">
-								<!-- <h1>Let's enjoy the wonders <br/>of the nature together!</h1> -->
-							</div>
+							<!-- <div class="col-md-12 text-center">
+								
+							</div> -->
 						</div><!-- /header-text -->
 					</div>
 					<div class="item">
 						<img src="images/banner/3.jpg" alt="Second slide">
 						<!-- Static Header -->
 						<div class="header-text hidden-xs">
-							<div class="col-md-12 text-center">
-								<!-- <h1>Enjoy outdoor activities? Join us!</h1> -->
-							</div>
+							<!-- <div class="col-md-12 text-center">
+								
+							</div> -->
 						</div><!-- /header-text -->
 					</div>
 					<div class="item">
 						<img src="images/banner/3.jpg" alt="Third slide">
 						<!-- Static Header -->
 						<div class="header-text hidden-xs">
-							<div class="col-md-12 text-center">
-								<!-- <h1>Let's enjoy the wonders <br/>of the nature together!</h1> -->
-							</div>
+							<!-- <div class="col-md-12 text-center">
+								
+							</div> -->
 						</div><!-- /header-text -->
 					</div>
 				</div>
