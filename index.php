@@ -4,8 +4,18 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Free Bootstrap Themes by 365Bootstrap dot com - Free Responsive Html5 Templates">
-    <meta name="author" content="http://www.365bootstrap.com">
+    <!-- <meta name="description" content="Free Bootstrap Themes by 365Bootstrap dot com - Free Responsive Html5 Templates">
+    <meta name="author" content="http://www.365bootstrap.com"> -->
+   		<meta name = "title" 						content = "Geracoes para Cristo | geracaoparacristo.com.br" />
+		<meta name = "keywords" 					content = "manaos,manaus,amazonas,amaz&ocirc;nia,brasil,brazil,rio amazonas" />
+		<meta name = "description" 					content = "" />
+		<meta name = "subject" 						content = "Igreja Evang&eacute;lica" />
+		<meta name = "author" 						content = "Williams Silva" />
+		<meta name = "creator" 						content = "zeroeum.com - http://www.zeroeum.com.br" />
+		<meta name = "identifier" 					content = "geracaoparacristo.com.br" />
+		<meta name = "language" 					content = "Portuguese" />
+		<meta name = "robots" 						content = "all" />
+
     <link rel="stylesheet" href="css/glisse.css" />
     <link rel="stylesheet" href="css/app.css" />
 	
@@ -252,8 +262,14 @@
 					<h2>LOCALIZAÇÃO NO MAPA</h2><hr>
 				</div>
 				<div class="box-item" >
-					<div class='embed-container maps' id="mapa" style="width: 100%; height: 400px">
-						<script src="https://maps.googleapis.com/maps/api/js?v=AIzaSyBaBwpxbb0-N67-2OCfmQaF_WU1s1ImJzQ&sensor=false"></script>
+					<div class='embed-container maps'>
+						<iframe
+						  width="100%"
+						  height="450"
+						  frameborder="0" style="border:0"
+						  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyByb9EBIY9nuKEVCPFT6H9kr2tSAkJGuyA
+						    &q=Space+Needle,Seattle+WA" allowfullscreen>
+						</iframe>
 					</div>
 					<div class="container">
 						<div class="row">
@@ -345,7 +361,7 @@
 	<script src="js/cbpAnimatedHeader.js"></script>
 	<script src="js/sendmensagem.js"></script>
 	<script src="js/glisse.js"></script>
-	<script src="js/mapa.js"></script>
+	
         <script>
             $(function () {
                 
