@@ -14,7 +14,7 @@
 						<!-- Static Header -->
 						<div class="header-text hidden-xs">
 							<div class="col-md-12 text-center">
-								<h1>Let's enjoy the wonders <br/>of the nature together!</h1>
+								<!-- <h1>Let's enjoy the wonders <br/>of the nature together!</h1> -->
 							</div>
 						</div><!-- /header-text -->
 					</div>
@@ -23,7 +23,7 @@
 						<!-- Static Header -->
 						<div class="header-text hidden-xs">
 							<div class="col-md-12 text-center">
-								<h1>Enjoy outdoor activities? Join us!</h1>
+								<!-- <h1>Enjoy outdoor activities? Join us!</h1> -->
 							</div>
 						</div><!-- /header-text -->
 					</div>
@@ -32,7 +32,7 @@
 						<!-- Static Header -->
 						<div class="header-text hidden-xs">
 							<div class="col-md-12 text-center">
-								<h1>Let's enjoy the wonders <br/>of the nature together!</h1>
+								<!-- <h1>Let's enjoy the wonders <br/>of the nature together!</h1> -->
 							</div>
 						</div><!-- /header-text -->
 					</div>
